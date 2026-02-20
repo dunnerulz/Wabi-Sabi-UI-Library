@@ -1,6 +1,6 @@
 # Wabi Sabi UI Library
 
-A UI library for [Matcha](https://matcha.gg) (external Roblox executor). Built around Matcha's constraints — no events, all input polled via a step loop.
+A UI library for Matcha.
 
 ---
 
